@@ -444,58 +444,58 @@ License: For each use you must have a valid license purchased only from above li
 						<div class="col-12">
 							<div class="card border border-2 mb-8 bg-light">
 								<div class="card-body text-center">
-									<img src="assets/img/team/user.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+									<img src="assets/img/team/user.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 									<br><b class="fs-4">Meta Seprinel</b>
 									<br>Ketua
 									<br><span class="text-gray-700">NIRA: -</span>
 									<hr>
 									<div class="row">
 										<div class="col-3 mt-8">
-											<img src="assets/img/team/user.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<img src="assets/img/team/user.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 											<br><b class="fs-4">Katherina Welong</b>
 											<br>Wakil Ketua Bidang Organisasi dan Kaderisasi
 											<br><span class="text-gray-700">NIRA: -</span>
 										</div>
 										<div class="col-3 mt-8">
-											<img src="assets/img/team/user.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<img src="assets/img/team/user.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 											<br><b class="fs-4">Gustafianof</b>
 											<br>Wakil Ketua Bidang Hukum dan Perundang-undangan
 											<br><span class="text-gray-700">NIRA: -</span>
 										</div>
 										<div class="col-3 mt-8">
-											<img src="assets/img/team/yulafni.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<img src="assets/img/team/yulafni.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 											<br><b class="fs-4">Yul Afni</b>
 											<br>Wakil Ketua Bidang Pemberdayaan Politik
 											<br><span class="text-gray-700">NIRA: 13710253887</span>
 											<br><span class="text-gray-700">Akper Kesdam I/BB Padang</span>
 										</div>
 										<div class="col-3 mt-8">
-											<img src="assets/img/team/user.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<img src="assets/img/team/user.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 											<br><b class="fs-4">Dony Boy</b>
 											<br>Wakil Ketua Bidang Hubungan Antar Lembaga
 											<br><span class="text-gray-700">NIRA: -</span>
 										</div>
 										<div class="col-3 mt-8">
-											<img src="assets/img/team/tasman.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<img src="assets/img/team/tasman.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 											<br><b class="fs-4">Tasman</b>
 											<br>Wakil Ketua Bidang Pendidikan dan Pelatihan
 											<br><span class="text-gray-700">NIRA: 13710244851</span>
 											<br><span class="text-gray-700">Poltekkes Kemenkes Padang</span>
 										</div>
 										<div class="col-3 mt-8">
-											<img src="assets/img/team/user.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<img src="assets/img/team/user.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 											<br><b class="fs-4">Heppi Sasmita</b>
 											<br>Wakil Ketua Bidang Penelitian, Sistem Informasi dan Komunikasi
 											<br><span class="text-gray-700">NIRA: -</span>
 										</div>
 										<div class="col-3 mt-8">
-											<img src="assets/img/team/user.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<img src="assets/img/team/user.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 											<br><b class="fs-4">Juliardinsyah</b>
 											<br>Wakil Ketua Bidang Pelayanan
 											<br><span class="text-gray-700">NIRA: -</span>
 										</div>
 										<div class="col-3 mt-8">
-											<img src="assets/img/team/user.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<img src="assets/img/team/user.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 											<br><b class="fs-4">Salman Koto</b>
 											<br>Wakil Ketua Bidang Kesejahteraan
 											<br><span class="text-gray-700">NIRA: -</span>
@@ -507,12 +507,12 @@ License: For each use you must have a valid license purchased only from above li
 						<div class="col-6">
 							<div class="card border border-2 mb-8 bg-light">
 								<div class="card-body text-center">
-									<img src="assets/img/team/user.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+									<img src="assets/img/team/user.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 									<br><b class="fs-4">Ezzeddin</b>
 									<br>Sekretaris	
 									<br><span class="text-gray-700">NIRA: -</span>
 									<hr>
-									<img src="assets/img/team/user.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+									<img src="assets/img/team/user.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 									<br><b class="fs-4">Merinelty Syamra</b>
 									<br>Wakil Sekretaris							
 									<br><span class="text-gray-700">NIRA: -</span>
@@ -522,12 +522,12 @@ License: For each use you must have a valid license purchased only from above li
 						<div class="col-6">
 							<div class="card border border-2 mb-8 bg-light">
 								<div class="card-body text-center">
-									<img src="assets/img/team/netrida.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+									<img src="assets/img/team/netrida.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 									<br><b class="fs-4">Netrida</b>
 									<br>Bendahara
 									<br><span class="text-gray-700">NIRA: -</span>
 									<hr>
-									<img src="assets/img/team/rahmayulis.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+									<img src="assets/img/team/rahmayulis.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 									<br><b class="fs-4">Rahmayulis</b>
 									<br>Wakil Bendahara							
 									<br><span class="text-gray-700">NIRA: -</span>
@@ -537,7 +537,7 @@ License: For each use you must have a valid license purchased only from above li
 						<div class="col-6">
 							<div class="card border border-2 mb-8 bg-light">
 								<div class="card-body text-center">
-									<img src="assets/img/team/dorisnita.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+									<img src="assets/img/team/dorisnita.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 									<br><b class="fs-4">Dorisnita</b>
 									<br>Ketua Divisi Organisasi dan Kaderisasi
 									<br><span class="text-gray-700">NIRA: 13710254077</span>
@@ -545,7 +545,7 @@ License: For each use you must have a valid license purchased only from above li
 									<hr>
 									<div class="row">
 										<div class="col-4 mt-8">								
-											<img src="assets/img/team/deniasra.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<img src="assets/img/team/deniasra.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 											<br><b class="fs-4">Deni Asra</b>
 											<br>Anggota 
 											<br><span class="text-gray-700">NIRA: 13750064108</span>
@@ -553,7 +553,7 @@ License: For each use you must have a valid license purchased only from above li
 											<p></p>
 										</div>
 										<div class="col-4 mt-8">
-											<img src="assets/img/team/afdalrahman.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<img src="assets/img/team/afdalrahman.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 											<br><b class="fs-4">Afdal Rahman</b>
 											<br>Anggota 
 											<br><span class="text-gray-700">NIRA: 13710469446</span>
@@ -561,7 +561,7 @@ License: For each use you must have a valid license purchased only from above li
 											<p></p>
 										</div>
 										<div class="col-4 mt-8">
-											<img src="assets/img/team/user.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<img src="assets/img/team/user.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 											<br><b class="fs-4">Fiska Maylisa</b>
 											<br>Anggota 
 											<br><span class="text-gray-700">NIRA: -</span>
@@ -574,7 +574,7 @@ License: For each use you must have a valid license purchased only from above li
 						<div class="col-6">
 							<div class="card border border-2 mb-8 bg-light">
 								<div class="card-body text-center">
-									<img src="assets/img/team/almidawati.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+									<img src="assets/img/team/almidawati.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 									<br><b class="fs-4">Almidawati</b>
 									<br>Ketua Divisi Hukum dan Perundang-undangan
 									<br><span class="text-gray-700">NIRA: 13710254052</span>
@@ -582,7 +582,7 @@ License: For each use you must have a valid license purchased only from above li
 									<hr>
 									<div class="row">
 										<div class="col-4 mt-8">								
-											<img src="assets/img/team/ariefbudiman.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<img src="assets/img/team/ariefbudiman.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 											<br><b class="fs-4">Arief Budiman</b>
 											<br>Anggota 
 											<br><span class="text-gray-700">NIRA: -</span>
@@ -590,14 +590,14 @@ License: For each use you must have a valid license purchased only from above li
 											<p></p>
 										</div>
 										<div class="col-4 mt-8">
-											<img src="assets/img/team/edwinidris.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<img src="assets/img/team/edwinidris.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 											<br><b class="fs-4">Edwin Idris</b>
 											<br>Anggota 
 											<br><span class="text-gray-700">NIRA: -</span>
 											<p></p>
 										</div>
 										<div class="col-4 mt-8">
-											<img src="assets/img/team/user.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<img src="assets/img/team/user.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 											<br><b class="fs-4">Febia Hendri</b>
 											<br>Anggota 
 											<br><span class="text-gray-700">NIRA: -</span>
@@ -610,7 +610,7 @@ License: For each use you must have a valid license purchased only from above li
 						<div class="col-6">
 							<div class="card border border-2 mb-8 bg-light">
 								<div class="card-body text-center">
-									<img src="assets/img/team/afridon.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+									<img src="assets/img/team/afridon.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 									<br><b class="fs-4">Afridon</b>
 									<br>Ketua Divisi Pemberdayaan Politik
 									<br><span class="text-gray-700">NIRA: 13720736695</span>
@@ -618,14 +618,14 @@ License: For each use you must have a valid license purchased only from above li
 									<hr>
 									<div class="row">
 										<div class="col-4 mt-8">								
-											<img src="assets/img/team/user.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<img src="assets/img/team/user.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 											<br><b class="fs-4">Silvia Agustin</b>
 											<br>Anggota 
 											<br><span class="text-gray-700">NIRA: -</span>
 											<p></p>
 										</div>
 										<div class="col-4 mt-8">
-											<img src="assets/img/team/yopi.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<img src="assets/img/team/yopi.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 											<br><b class="fs-4">Yopi</b>
 											<br>Anggota 
 											<br><span class="text-gray-700">NIRA: 13740170671</span>
@@ -633,7 +633,7 @@ License: For each use you must have a valid license purchased only from above li
 											<p></p>
 										</div>
 										<div class="col-4 mt-8">
-											<img src="assets/img/team/user.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<img src="assets/img/team/user.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 											<br><b class="fs-4">Alek Nasri</b>
 											<br>Anggota 
 											<br><span class="text-gray-700">NIRA: -</span>
@@ -646,7 +646,7 @@ License: For each use you must have a valid license purchased only from above li
 						<div class="col-6">
 							<div class="card border border-2 mb-8 bg-light">
 								<div class="card-body text-center">
-									<img src="assets/img/team/triameidiky.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+									<img src="assets/img/team/triameidiky.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 									<br><b class="fs-4">Tria Meidiky</b>
 									<br>Ketua Divisi Hubungan Antar Lembaga
 									<br><span class="text-gray-700">NIRA: 13710255066</span>
@@ -654,21 +654,21 @@ License: For each use you must have a valid license purchased only from above li
 									<hr>
 									<div class="row">
 										<div class="col-4 mt-8">								
-											<img src="assets/img/team/user.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<img src="assets/img/team/user.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 											<br><b class="fs-4">Gufra</b>
 											<br>Anggota 
 											<br><span class="text-gray-700">NIRA: -</span>
 											<p></p>
 										</div>
 										<div class="col-4 mt-8">
-											<img src="assets/img/team/user.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<img src="assets/img/team/user.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 											<br><b class="fs-4">Stevani</b>
 											<br>Anggota 
 											<br><span class="text-gray-700">NIRA: -</span>
 											<p></p>
 										</div>
 										<div class="col-4 mt-8">
-											<img src="assets/img/team/user.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<img src="assets/img/team/user.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 											<br><b class="fs-4">Sri Rahyu Handayani</b>
 											<br>Anggota 
 											<br><span class="text-gray-700">NIRA: -</span>
@@ -681,7 +681,7 @@ License: For each use you must have a valid license purchased only from above li
 						<div class="col-6">
 							<div class="card border border-2 mb-8 bg-light">
 								<div class="card-body text-center">
-									<img src="assets/img/team/yaslina.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+									<img src="assets/img/team/yaslina.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 									<br><b class="fs-4">Yaslina</b>
 									<br>Ketua Divisi Pendidikan dan Pelatihan
 									<br><span class="text-gray-700">NIRA: 13750181359</span>
@@ -689,7 +689,7 @@ License: For each use you must have a valid license purchased only from above li
 									<hr>
 									<div class="row">
 										<div class="col-4 mt-8">								
-											<img src="assets/img/team/martalena.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<img src="assets/img/team/martalena.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 											<br><b class="fs-4">Martalena</b>
 											<br>Anggota 
 											<br><span class="text-gray-700">NIRA: 13710255154</span>
@@ -697,7 +697,7 @@ License: For each use you must have a valid license purchased only from above li
 											<p></p>
 										</div>
 										<div class="col-4 mt-8">
-											<img src="assets/img/team/vildariyena.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<img src="assets/img/team/vildariyena.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 											<br><b class="fs-4">Vilda Riyena</b>
 											<br>Anggota 
 											<br><span class="text-gray-700">NIRA: 13710254037</span>
@@ -705,7 +705,7 @@ License: For each use you must have a valid license purchased only from above li
 											<p></p>
 										</div>
 										<div class="col-4 mt-8">
-											<img src="assets/img/team/zollaamelyilda.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<img src="assets/img/team/zollaamelyilda.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 											<br><b class="fs-4">Zolla Amely Ilda</b>
 											<br>Anggota 
 											<br><span class="text-gray-700">NIRA: 13710244853</span>
@@ -719,7 +719,7 @@ License: For each use you must have a valid license purchased only from above li
 						<div class="col-6">
 							<div class="card border border-2 mb-8 bg-light">
 								<div class="card-body text-center">
-									<img src="assets/img/team/renidayati.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+									<img src="assets/img/team/renidayati.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 									<br><b class="fs-4">Renidayati</b>
 									<br>Ketua Divisi Penelitian, Sistem Informasi dan Komunikasi
 									<br><span class="text-gray-700">NIRA: 13710244850</span>
@@ -727,7 +727,7 @@ License: For each use you must have a valid license purchased only from above li
 									<hr>
 									<div class="row">
 										<div class="col-4 mt-8">								
-											<img src="assets/img/team/novayanti.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<img src="assets/img/team/novayanti.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 											<br><b class="fs-4">Nova Yanti</b>
 											<br>Anggota 
 											<br><span class="text-gray-700">NIRA: 13710244848</span>
@@ -735,7 +735,7 @@ License: For each use you must have a valid license purchased only from above li
 											<p></p>
 										</div>
 										<div class="col-4 mt-8">
-											<img src="assets/img/team/satriaahdamuharam.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<img src="assets/img/team/satriaahdamuharam.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 											<br><b class="fs-4">Satria Ahda Muharam</b>
 											<br>Anggota 
 											<br><span class="text-gray-700">NIRA: 13100449789</span>
@@ -743,7 +743,7 @@ License: For each use you must have a valid license purchased only from above li
 											<p></p>
 										</div>
 										<div class="col-4 mt-8">
-											<img src="assets/img/team/user.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<img src="assets/img/team/user.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 											<br><b class="fs-4">Defrima Oka Surya</b>
 											<br>Anggota 
 											<br><span class="text-gray-700">NIRA: -</span>
@@ -756,7 +756,7 @@ License: For each use you must have a valid license purchased only from above li
 						<div class="col-6">
 							<div class="card border border-2 mb-8 bg-light">
 								<div class="card-body text-center">
-									<img src="assets/img/team/alitadevi.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+									<img src="assets/img/team/alitadevi.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 									<br><b class="fs-4">Alita Devi</b>
 									<br>Ketua Divisi Pelayanan
 									<br><span class="text-gray-700">NIRA: 13720024246</span>
@@ -764,14 +764,14 @@ License: For each use you must have a valid license purchased only from above li
 									<hr>
 									<div class="row">
 										<div class="col-4 mt-8">								
-											<img src="assets/img/team/user.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<img src="assets/img/team/user.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 											<br><b class="fs-4">Venny Dwita Zola</b>
 											<br>Anggota 
 											<br><span class="text-gray-700">NIRA: -</span>
 											<p></p>
 										</div>
 										<div class="col-4 mt-8">
-											<img src="assets/img/team/isnadi.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<img src="assets/img/team/isnadi.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 											<br><b class="fs-4">Isnadi</b>
 											<br>Anggota 
 											<br><span class="text-gray-700">NIRA: 13090296050</span>
@@ -779,7 +779,7 @@ License: For each use you must have a valid license purchased only from above li
 											<p></p>
 										</div>
 										<div class="col-4 mt-8">
-											<img src="assets/img/team/suryaefendi.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<img src="assets/img/team/suryaefendi.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 											<br><b class="fs-4">Surya Efendi</b>
 											<br>Anggota 
 											<br><span class="text-gray-700">NIRA: 13710253859</span>
@@ -793,7 +793,7 @@ License: For each use you must have a valid license purchased only from above li
 						<div class="col-6">
 							<div class="card border border-2 mb-8 bg-light">
 								<div class="card-body text-center">
-									<img src="assets/img/team/syafrizal.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+									<img src="assets/img/team/syafrizal.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 									<br><b class="fs-4">Syafrizal</b>
 									<br>Ketua Divisi Kesejahteraan
 									<br><span class="text-gray-700">NIRA: 13710256109</span>
@@ -801,7 +801,7 @@ License: For each use you must have a valid license purchased only from above li
 									<hr>
 									<div class="row">
 										<div class="col-4 mt-8">								
-											<img src="assets/img/team/primawiasari.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<img src="assets/img/team/primawiasari.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 											<br><b class="fs-4">Prima Wia Sari</b>
 											<br>Anggota 
 											<br><span class="text-gray-700">NIRA: 13710255510</span>
@@ -809,7 +809,7 @@ License: For each use you must have a valid license purchased only from above li
 											<p></p>
 										</div>
 										<div class="col-4 mt-8">
-											<img src="assets/img/team/feraafrida.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<img src="assets/img/team/feraafrida.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 											<br><b class="fs-4">Fera Afrida</b>
 											<br>Anggota 
 											<br><span class="text-gray-700">NIRA: 13050400094</span>
@@ -817,7 +817,7 @@ License: For each use you must have a valid license purchased only from above li
 											<p></p>
 										</div>
 										<div class="col-4 mt-8">
-											<img src="assets/img/team/restumaulana.jpg" height="80px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<img src="assets/img/team/restumaulana.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 											<br><b class="fs-4">Restu Maulana</b>
 											<br>Anggota 
 											<br><span class="text-gray-700">NIRA: 13730238851</span>
