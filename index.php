@@ -444,61 +444,67 @@ License: For each use you must have a valid license purchased only from above li
 						<div class="col-12">
 							<div class="card border border-2 mb-8 bg-light">
 								<div class="card-body text-center">
-									<img src="assets/img/team/user.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
-									<br><b class="fs-4">Meta Seprinel</b>
+									<img src="assets/img/team/metaseprinel.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
+									<br><b class="fs-4">Ns. Meta Seprinel, S.Kep.,MM</b>
 									<br>Ketua
-									<br><span class="text-gray-700">NIRA: -</span>
+									<br><span class="text-gray-700">NIRA: 13750037421</span>
+									<br><span class="text-gray-700">RS Otak M. Hatta Bukittinggi</span>
 									<hr>
 									<div class="row">
 										<div class="col-3 mt-8">
-											<img src="assets/img/team/user.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
-											<br><b class="fs-4">Katherina Welong</b>
+											<img src="assets/img/team/katherinawelong.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<br><b class="fs-4">Katherina Welong, SKM, MARS </b>
 											<br>Wakil Ketua Bidang Organisasi dan Kaderisasi
-											<br><span class="text-gray-700">NIRA: -</span>
+											<br><span class="text-gray-700">NIRA: 13710255109</span>
+											<br><span class="text-gray-700">RSUP Dr. M. Djamil Padang</span>
 										</div>
 										<div class="col-3 mt-8">
-											<img src="assets/img/team/user.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<img src="assets/img/team/gustafianof.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 											<br><b class="fs-4">Gustafianof</b>
 											<br>Wakil Ketua Bidang Hukum dan Perundang-undangan
 											<br><span class="text-gray-700">NIRA: -</span>
 										</div>
 										<div class="col-3 mt-8">
 											<img src="assets/img/team/yulafni.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
-											<br><b class="fs-4">Yul Afni</b>
+											<br><b class="fs-4">Ns. Yul Afni, S.Kep. M.MKes</b>
 											<br>Wakil Ketua Bidang Pemberdayaan Politik
 											<br><span class="text-gray-700">NIRA: 13710253887</span>
 											<br><span class="text-gray-700">Akper Kesdam I/BB Padang</span>
 										</div>
 										<div class="col-3 mt-8">
-											<img src="assets/img/team/user.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
-											<br><b class="fs-4">Dony Boy</b>
+											<img src="assets/img/team/donyboy.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<br><b class="fs-4">Doni Boy, SKM, MM</b>
 											<br>Wakil Ketua Bidang Hubungan Antar Lembaga
-											<br><span class="text-gray-700">NIRA: -</span>
+											<br><span class="text-gray-700">NIRA: 13020037414</span>
+											<br><span class="text-gray-700">BPBD Kabupaten Pesisir Selatan </span>
 										</div>
 										<div class="col-3 mt-8">
 											<img src="assets/img/team/tasman.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
-											<br><b class="fs-4">Tasman</b>
+											<br><b class="fs-4">Tasman, S.Kp., M. Kep., Sp. Kom</b>
 											<br>Wakil Ketua Bidang Pendidikan dan Pelatihan
 											<br><span class="text-gray-700">NIRA: 13710244851</span>
 											<br><span class="text-gray-700">Poltekkes Kemenkes Padang</span>
 										</div>
 										<div class="col-3 mt-8">
-											<img src="assets/img/team/user.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
-											<br><b class="fs-4">Heppi Sasmita</b>
+											<img src="assets/img/team/heppisasmita.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<br><b class="fs-4">Heppi Sasmita, SKp, M.Kep.SpJiwa</b>
 											<br>Wakil Ketua Bidang Penelitian, Sistem Informasi dan Komunikasi
-											<br><span class="text-gray-700">NIRA: -</span>
+											<br><span class="text-gray-700">NIRA: 13710037441</span>
+											<br><span class="text-gray-700">Poltekkes Kemenkes Padang</span>
 										</div>
 										<div class="col-3 mt-8">
-											<img src="assets/img/team/user.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
-											<br><b class="fs-4">Juliardinsyah</b>
+											<img src="assets/img/team/juliardinsyah.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<br><b class="fs-4">Juliardinsyah, SKp, MM</b>
 											<br>Wakil Ketua Bidang Pelayanan
-											<br><span class="text-gray-700">NIRA: -</span>
+											<br><span class="text-gray-700">NIRA: 13740170759</span>
+											<br><span class="text-gray-700">RSUD Kota Padang Panjang</span>
 										</div>
 										<div class="col-3 mt-8">
-											<img src="assets/img/team/user.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
-											<br><b class="fs-4">Salman Koto</b>
+											<img src="assets/img/team/salman.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<br><b class="fs-4">Ns. Salman, S. Kep</b>
 											<br>Wakil Ketua Bidang Kesejahteraan
-											<br><span class="text-gray-700">NIRA: -</span>
+											<br><span class="text-gray-700">NIRA: 13770037419</span>
+											<br><span class="text-gray-700">RSUD Pariaman</span>
 										</div>
 									</div>
 								</div>
@@ -507,15 +513,17 @@ License: For each use you must have a valid license purchased only from above li
 						<div class="col-6">
 							<div class="card border border-2 mb-8 bg-light">
 								<div class="card-body text-center">
-									<img src="assets/img/team/user.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
-									<br><b class="fs-4">Ezzeddin</b>
+									<img src="assets/img/team/ezzeddin.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
+									<br><b class="fs-4">Ns. H. Ezzeddin, S.Kep</b>
 									<br>Sekretaris	
-									<br><span class="text-gray-700">NIRA: -</span>
+									<br><span class="text-gray-700">NIRA: 13710037423</span>
+									<br><span class="text-gray-700">RSJ. Prof. HB. Saanin Padang</span>
 									<hr>
-									<img src="assets/img/team/user.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
-									<br><b class="fs-4">Merinelty Syamra</b>
+									<img src="assets/img/team/merineltysyamra.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
+									<br><b class="fs-4">Merinelty Syamra, SKM, MM</b>
 									<br>Wakil Sekretaris							
-									<br><span class="text-gray-700">NIRA: -</span>
+									<br><span class="text-gray-700">NIRA: 13020037435</span>
+									<br><span class="text-gray-700">DP3AP2KB Kota Padang</span>
 								</div>
 							</div>
 						</div>
@@ -523,14 +531,16 @@ License: For each use you must have a valid license purchased only from above li
 							<div class="card border border-2 mb-8 bg-light">
 								<div class="card-body text-center">
 									<img src="assets/img/team/netrida.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
-									<br><b class="fs-4">Netrida</b>
+									<br><b class="fs-4">Ns. Netrida,M.Kep,Sp.Kepj</b>
 									<br>Bendahara
-									<br><span class="text-gray-700">NIRA: -</span>
+									<br><span class="text-gray-700">NIRA: 13710256076</span>
+									<br><span class="text-gray-700">RSJ. Prof. HB. Saanin Padang</span>
 									<hr>
 									<img src="assets/img/team/rahmayulis.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
-									<br><b class="fs-4">Rahmayulis</b>
+									<br><b class="fs-4">Ns. Ramayulis, S.Kep</b>
 									<br>Wakil Bendahara							
-									<br><span class="text-gray-700">NIRA: -</span>
+									<br><span class="text-gray-700">NIRA: 13710255507</span>
+									<br><span class="text-gray-700">RSUD dr. Rasidin Padang</span>
 								</div>
 							</div>
 						</div>
@@ -538,7 +548,7 @@ License: For each use you must have a valid license purchased only from above li
 							<div class="card border border-2 mb-8 bg-light">
 								<div class="card-body text-center">
 									<img src="assets/img/team/dorisnita.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
-									<br><b class="fs-4">Dorisnita</b>
+									<br><b class="fs-4">Ns. Dorisnita, S. Kep, M. Kep, FISQua</b>
 									<br>Ketua Divisi Organisasi dan Kaderisasi
 									<br><span class="text-gray-700">NIRA: 13710254077</span>
 									<br><span class="text-gray-700">RSUP Dr. M. Djamil Padang</span>
@@ -546,7 +556,7 @@ License: For each use you must have a valid license purchased only from above li
 									<div class="row">
 										<div class="col-4 mt-8">								
 											<img src="assets/img/team/deniasra.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
-											<br><b class="fs-4">Deni Asra</b>
+											<br><b class="fs-4">Ns. Deni Asra, S. Kep, MKM</b>
 											<br>Anggota 
 											<br><span class="text-gray-700">NIRA: 13750064108</span>
 											<br><span class="text-gray-700">RSOMH Bukittinggi</span>
@@ -554,14 +564,14 @@ License: For each use you must have a valid license purchased only from above li
 										</div>
 										<div class="col-4 mt-8">
 											<img src="assets/img/team/afdalrahman.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
-											<br><b class="fs-4">Afdal Rahman</b>
+											<br><b class="fs-4">Ns. Afdal Rahman, S.Kep</b>
 											<br>Anggota 
 											<br><span class="text-gray-700">NIRA: 13710469446</span>
 											<br><span class="text-gray-700">RSUP Dr. M. Djamil Padang</span>
 											<p></p>
 										</div>
 										<div class="col-4 mt-8">
-											<img src="assets/img/team/user.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<img src="assets/img/team/fiskamaylisa.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 											<br><b class="fs-4">Fiska Maylisa</b>
 											<br>Anggota 
 											<br><span class="text-gray-700">NIRA: -</span>
@@ -575,7 +585,7 @@ License: For each use you must have a valid license purchased only from above li
 							<div class="card border border-2 mb-8 bg-light">
 								<div class="card-body text-center">
 									<img src="assets/img/team/almidawati.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
-									<br><b class="fs-4">Almidawati</b>
+									<br><b class="fs-4">Ns. Almidawati, S. Kep</b>
 									<br>Ketua Divisi Hukum dan Perundang-undangan
 									<br><span class="text-gray-700">NIRA: 13710254052</span>
 									<br><span class="text-gray-700">RSUP Dr. M. Djamil Padang</span>
@@ -583,7 +593,7 @@ License: For each use you must have a valid license purchased only from above li
 									<div class="row">
 										<div class="col-4 mt-8">								
 											<img src="assets/img/team/ariefbudiman.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
-											<br><b class="fs-4">Arief Budiman</b>
+											<br><b class="fs-4">Dr.H.Arif Budiman, AMK.,SKM., M.Sc.HL</b>
 											<br>Anggota 
 											<br><span class="text-gray-700">NIRA: -</span>
 											<br><span class="text-gray-700">BKPSDM Sijunjung</span>
@@ -591,9 +601,10 @@ License: For each use you must have a valid license purchased only from above li
 										</div>
 										<div class="col-4 mt-8">
 											<img src="assets/img/team/edwinidris.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
-											<br><b class="fs-4">Edwin Idris</b>
+											<br><b class="fs-4">Ns.Edwin Idris.S.Kep</b>
 											<br>Anggota 
-											<br><span class="text-gray-700">NIRA: -</span>
+											<br><span class="text-gray-700">NIRA: 13770081903</span>
+											<br><span class="text-gray-700">RSUD Pariaman</span>
 											<p></p>
 										</div>
 										<div class="col-4 mt-8">
@@ -611,22 +622,23 @@ License: For each use you must have a valid license purchased only from above li
 							<div class="card border border-2 mb-8 bg-light">
 								<div class="card-body text-center">
 									<img src="assets/img/team/afridon.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
-									<br><b class="fs-4">Afridon</b>
+									<br><b class="fs-4">Afridon, S.Kp, M.Kep</b>
 									<br>Ketua Divisi Pemberdayaan Politik
 									<br><span class="text-gray-700">NIRA: 13720736695</span>
 									<br><span class="text-gray-700">Akademi Keperawatan YPTK Solok </span>
 									<hr>
 									<div class="row">
 										<div class="col-4 mt-8">								
-											<img src="assets/img/team/user.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
-											<br><b class="fs-4">Silvia Agustin</b>
+											<img src="assets/img/team/silviaagustin.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<br><b class="fs-4">Ns. Silvia Agustin., S.Kep., M.M</b>
 											<br>Anggota 
-											<br><span class="text-gray-700">NIRA: -</span>
+											<br><span class="text-gray-700">NIRA: 13710255963</span>
+											<br><span class="text-gray-700">RS Bhayangkara TK III Padang</span>
 											<p></p>
 										</div>
 										<div class="col-4 mt-8">
 											<img src="assets/img/team/yopi.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
-											<br><b class="fs-4">Yopi</b>
+											<br><b class="fs-4">Yopi, A.Md.Kep</b>
 											<br>Anggota 
 											<br><span class="text-gray-700">NIRA: 13740170671</span>
 											<br><span class="text-gray-700">RSUD Kota Padang Panjang</span>
@@ -647,7 +659,7 @@ License: For each use you must have a valid license purchased only from above li
 							<div class="card border border-2 mb-8 bg-light">
 								<div class="card-body text-center">
 									<img src="assets/img/team/triameidiky.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
-									<br><b class="fs-4">Tria Meidiky</b>
+									<br><b class="fs-4">Ns. Tria Meidhiky, S.Kep</b>
 									<br>Ketua Divisi Hubungan Antar Lembaga
 									<br><span class="text-gray-700">NIRA: 13710255066</span>
 									<br><span class="text-gray-700">RSUP Dr. M. Djamil Padang</span>
@@ -661,17 +673,19 @@ License: For each use you must have a valid license purchased only from above li
 											<p></p>
 										</div>
 										<div class="col-4 mt-8">
-											<img src="assets/img/team/user.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
-											<br><b class="fs-4">Stevani</b>
+											<img src="assets/img/team/stevanymz.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<br><b class="fs-4">Stevany Mz., S.Kep, Ners</b>
 											<br>Anggota 
-											<br><span class="text-gray-700">NIRA: -</span>
+											<br><span class="text-gray-700">NIRA: 13710644939</span>
+											<br><span class="text-gray-700">BASARNAS</span>
 											<p></p>
 										</div>
 										<div class="col-4 mt-8">
-											<img src="assets/img/team/user.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
-											<br><b class="fs-4">Sri Rahyu Handayani</b>
+											<img src="assets/img/team/srirahyuhandayani.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<br><b class="fs-4">Ns. Sri Rahyu Handayani, S.Kep</b>
 											<br>Anggota 
-											<br><span class="text-gray-700">NIRA: -</span>
+											<br><span class="text-gray-700">NIRA: 13730330548</span>
+											<br><span class="text-gray-700">KKP Kelas II Padang</span>
 											<p></p>
 										</div>
 									</div>
@@ -682,7 +696,7 @@ License: For each use you must have a valid license purchased only from above li
 							<div class="card border border-2 mb-8 bg-light">
 								<div class="card-body text-center">
 									<img src="assets/img/team/yaslina.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
-									<br><b class="fs-4">Yaslina</b>
+									<br><b class="fs-4">Yaslina, M.Kep, Ns, Sp.Kep.Kom</b>
 									<br>Ketua Divisi Pendidikan dan Pelatihan
 									<br><span class="text-gray-700">NIRA: 13750181359</span>
 									<br><span class="text-gray-700">Upertis</span>
@@ -690,7 +704,7 @@ License: For each use you must have a valid license purchased only from above li
 									<div class="row">
 										<div class="col-4 mt-8">								
 											<img src="assets/img/team/martalena.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
-											<br><b class="fs-4">Martalena</b>
+											<br><b class="fs-4">Ns. Martalena, S.Kep</b>
 											<br>Anggota 
 											<br><span class="text-gray-700">NIRA: 13710255154</span>
 											<br><span class="text-gray-700">RSUP Dr. M. Djamil Padang</span>
@@ -698,7 +712,7 @@ License: For each use you must have a valid license purchased only from above li
 										</div>
 										<div class="col-4 mt-8">
 											<img src="assets/img/team/vildariyena.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
-											<br><b class="fs-4">Vilda Riyena</b>
+											<br><b class="fs-4">Ns. Vilda Riyena, S.Kep, M.Kep</b>
 											<br>Anggota 
 											<br><span class="text-gray-700">NIRA: 13710254037</span>
 											<br><span class="text-gray-700">RSUP Dr. M. Djamil Padang</span>
@@ -706,7 +720,7 @@ License: For each use you must have a valid license purchased only from above li
 										</div>
 										<div class="col-4 mt-8">
 											<img src="assets/img/team/zollaamelyilda.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
-											<br><b class="fs-4">Zolla Amely Ilda</b>
+											<br><b class="fs-4">Ns. Zolla Amely Ilda, S. Kep, M. Kep</b>
 											<br>Anggota 
 											<br><span class="text-gray-700">NIRA: 13710244853</span>
 											<br><span class="text-gray-700">Poltekkes Kemenkes Padang</span>
@@ -720,7 +734,7 @@ License: For each use you must have a valid license purchased only from above li
 							<div class="card border border-2 mb-8 bg-light">
 								<div class="card-body text-center">
 									<img src="assets/img/team/renidayati.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
-									<br><b class="fs-4">Renidayati</b>
+									<br><b class="fs-4">Renidayati, SKp, M.Kep, Sp.Jiwa</b>
 									<br>Ketua Divisi Penelitian, Sistem Informasi dan Komunikasi
 									<br><span class="text-gray-700">NIRA: 13710244850</span>
 									<br><span class="text-gray-700">Poltekkes Kemenkes Padang</span>
@@ -728,7 +742,7 @@ License: For each use you must have a valid license purchased only from above li
 									<div class="row">
 										<div class="col-4 mt-8">								
 											<img src="assets/img/team/novayanti.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
-											<br><b class="fs-4">Nova Yanti</b>
+											<br><b class="fs-4">Ns. Nova Yanti, M.Kep. Sp.Kep.MB</b>
 											<br>Anggota 
 											<br><span class="text-gray-700">NIRA: 13710244848</span>
 											<br><span class="text-gray-700">Poltekkes Kemenkes Padang</span>
@@ -736,17 +750,18 @@ License: For each use you must have a valid license purchased only from above li
 										</div>
 										<div class="col-4 mt-8">
 											<img src="assets/img/team/satriaahdamuharam.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
-											<br><b class="fs-4">Satria Ahda Muharam</b>
+											<br><b class="fs-4">Ns. Satria Ahda Muharman. S.Kep</b>
 											<br>Anggota 
 											<br><span class="text-gray-700">NIRA: 13100449789</span>
 											<br><span class="text-gray-700">RSUD Solok Selatan</span>
 											<p></p>
 										</div>
 										<div class="col-4 mt-8">
-											<img src="assets/img/team/user.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
-											<br><b class="fs-4">Defrima Oka Surya</b>
+											<img src="assets/img/team/defrimaokasurya.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<br><b class="fs-4">Ns. Defrima Oka Surya, M.Kep, Sp.Kep.Kom</b>
 											<br>Anggota 
-											<br><span class="text-gray-700">NIRA: -</span>
+											<br><span class="text-gray-700">NIRA: 13710254381</span>
+											<br><span class="text-gray-700">STIKes Mercubaktijaya Padang</span>
 											<p></p>
 										</div>
 									</div>
@@ -757,22 +772,22 @@ License: For each use you must have a valid license purchased only from above li
 							<div class="card border border-2 mb-8 bg-light">
 								<div class="card-body text-center">
 									<img src="assets/img/team/alitadevi.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
-									<br><b class="fs-4">Alita Devi</b>
+									<br><b class="fs-4">Ns. Alita Devi, M.Kep</b>
 									<br>Ketua Divisi Pelayanan
 									<br><span class="text-gray-700">NIRA: 13720024246</span>
 									<br><span class="text-gray-700">RSUD M.Natsir</span>
 									<hr>
 									<div class="row">
 										<div class="col-4 mt-8">								
-											<img src="assets/img/team/user.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<img src="assets/img/team/vennydwitazola.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
 											<br><b class="fs-4">Venny Dwita Zola</b>
 											<br>Anggota 
 											<br><span class="text-gray-700">NIRA: -</span>
 											<p></p>
 										</div>
 										<div class="col-4 mt-8">
-											<img src="assets/img/team/isnadi.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
-											<br><b class="fs-4">Isnadi</b>
+											<img src="assets/img/team/isnadiagus.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
+											<br><b class="fs-4">Ns. Isnadi Agus, S.Kep, M.Kep</b>
 											<br>Anggota 
 											<br><span class="text-gray-700">NIRA: 13090296050</span>
 											<br><span class="text-gray-700">RSUD Lubuk Sikaping </span>
@@ -780,10 +795,10 @@ License: For each use you must have a valid license purchased only from above li
 										</div>
 										<div class="col-4 mt-8">
 											<img src="assets/img/team/suryaefendi.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
-											<br><b class="fs-4">Surya Efendi</b>
+											<br><b class="fs-4">Ns. Surya Efendi, M.Kep, Sp.Kep.J</b>
 											<br>Anggota 
 											<br><span class="text-gray-700">NIRA: 13710253859</span>
-											<br><span class="text-gray-700">RS Jiwa Prof. HB Saanin Padang</span>
+											<br><span class="text-gray-700">RSJ Prof. HB. Saanin Padang</span>
 											<p></p>
 										</div>
 									</div>
@@ -794,15 +809,15 @@ License: For each use you must have a valid license purchased only from above li
 							<div class="card border border-2 mb-8 bg-light">
 								<div class="card-body text-center">
 									<img src="assets/img/team/syafrizal.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
-									<br><b class="fs-4">Syafrizal</b>
+									<br><b class="fs-4">Ns. Syafrizal, S.Kep</b>
 									<br>Ketua Divisi Kesejahteraan
 									<br><span class="text-gray-700">NIRA: 13710256109</span>
-									<br><span class="text-gray-700">RS Jiwa Prof. HB Saanin Padang</span>
+									<br><span class="text-gray-700">RSJ Prof. HB. Saanin Padang</span>
 									<hr>
 									<div class="row">
 										<div class="col-4 mt-8">								
 											<img src="assets/img/team/primawiasari.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
-											<br><b class="fs-4">Prima Wia Sari</b>
+											<br><b class="fs-4">Ns. Prima Wia Sari, S.Kep</b>
 											<br>Anggota 
 											<br><span class="text-gray-700">NIRA: 13710255510</span>
 											<br><span class="text-gray-700">RSUD dr. Rasidin Padang</span>
@@ -810,7 +825,7 @@ License: For each use you must have a valid license purchased only from above li
 										</div>
 										<div class="col-4 mt-8">
 											<img src="assets/img/team/feraafrida.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
-											<br><b class="fs-4">Fera Afrida</b>
+											<br><b class="fs-4">Ns. Fera Afrida, S.Kep</b>
 											<br>Anggota 
 											<br><span class="text-gray-700">NIRA: 13050400094</span>
 											<br><span class="text-gray-700">RSUD Prof DR MA Hanafiah SM Batusangkar</span>
@@ -818,7 +833,7 @@ License: For each use you must have a valid license purchased only from above li
 										</div>
 										<div class="col-4 mt-8">
 											<img src="assets/img/team/restumaulana.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
-											<br><b class="fs-4">Restu Maulana</b>
+											<br><b class="fs-4">Restu Maulana, S.Kep, M.KM</b>
 											<br>Anggota 
 											<br><span class="text-gray-700">NIRA: 13730238851</span>
 											<br><span class="text-gray-700">Dinkes Sawahlunto</span>
