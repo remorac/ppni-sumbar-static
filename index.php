@@ -674,7 +674,7 @@ License: For each use you must have a valid license purchased only from above li
 										</div>
 										<div class="col-4 mt-8">
 											<img src="assets/img/team/stevanymz.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
-											<br><b class="fs-4">Stevany Mz., S.Kep, Ners</b>
+											<br><b class="fs-4">Ns. Stevany Mz, S.Kep</b>
 											<br>Anggota 
 											<br><span class="text-gray-700">NIRA: 13710644939</span>
 											<br><span class="text-gray-700">BASARNAS</span>
@@ -696,7 +696,7 @@ License: For each use you must have a valid license purchased only from above li
 							<div class="card border border-2 mb-8 bg-light">
 								<div class="card-body text-center">
 									<img src="assets/img/team/yaslina.jpg" height="100px" style="border-radius: 50%;" class="mb-4 border border-4">
-									<br><b class="fs-4">Yaslina, M.Kep, Ns, Sp.Kep.Kom</b>
+									<br><b class="fs-4">Ns. Yaslina, M.Kep, Sp.Kep.Kom</b>
 									<br>Ketua Divisi Pendidikan dan Pelatihan
 									<br><span class="text-gray-700">NIRA: 13750181359</span>
 									<br><span class="text-gray-700">Upertis</span>
